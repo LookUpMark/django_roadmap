@@ -230,4 +230,3 @@ Per fermare il server di sviluppo, premi `CTRL+C` nel terminale.
             *   Apri il browser e visita `http://127.0.0.1:8000/` per vedere la pagina di benvenuto di Django.
             *   Ferma il server con `CTRL+C`.
     *   **Riferimento Scaffolding:** `exercise_scaffolding/exercise_2_create_project_app.py`
-```
