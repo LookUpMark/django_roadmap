@@ -217,4 +217,3 @@ L'Admin è uno strumento incredibilmente utile per lo sviluppo e la gestione dei
     *   Vai a `http://127.0.0.1:8000/admin/` nel tuo browser.
     *   Effettua il login con le credenziali del superutente.
     *   Dovresti vedere le sezioni "Autores" e "Libros". Prova ad aggiungere alcuni autori e alcuni libri attraverso l'interfaccia Admin. Nota come la `ForeignKey` per l'autore nel form del libro ti permette di selezionare un autore esistente.
-```
